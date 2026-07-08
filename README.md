@@ -3,9 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header" width="100%"/>
 
 <h1>Hi, I'm THAKKSIN A S 👋</h1>
-<h3>Electronics & Communication Engineering Student</h3>
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<img src="https://readme-typing-svg.demolab.com/?lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;VLSI+%7C+DSP+%7C+IoT;Always+Learning+Something+New&font=Fira+Code&center=true&width=500&height=40&color=2a5298&vCenter=true&size=20"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/thakksin-a-s-3421952b5/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:thakksin2006@gmail.com">
@@ -15,6 +18,10 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=2a5298&style=flat"/>
+
 </div>
 
 <br/>
@@ -23,12 +30,12 @@
 
 I'm a student at **PSG Institute of Technology and Applied Research**, pursuing a degree in **Electronics and Communication Engineering (ECE)**. I enjoy working across the hardware–software boundary — from designing circuits to writing the code that drives them.
 
-```
-🎓  Studying         Digital Signal Processing · VLSI Design · Microcontrollers
-🌱  Learning         Embedded C · FPGA Design · PCB Design
-💬  Ask me about     Embedded Systems · Circuit Design · Communication Protocols
-📫  Reach me at      thakksin2006@gmail.com
-```
+<table>
+<tr><td>🎓</td><td><b>Studying</b></td><td>Digital Signal Processing · VLSI Design · Microcontrollers</td></tr>
+<tr><td>🌱</td><td><b>Learning</b></td><td>Embedded C · FPGA Design · PCB Design</td></tr>
+<tr><td>💬</td><td><b>Ask me about</b></td><td>Embedded Systems · Circuit Design · Communication Protocols</td></tr>
+<tr><td>📫</td><td><b>Reach me at</b></td><td>thakksin2006@gmail.com</td></tr>
+</table>
 
 <br/>
 
@@ -36,7 +43,18 @@ I'm a student at **PSG Institute of Technology and Applied Research**, pursuing 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,matlab,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,matlab,git,github&theme=dark&perline=8" />
+
+<br/><br/>
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-informational?style=flat-square)
+![Verilog](https://img.shields.io/badge/-Verilog%2FVHDL-red?style=flat-square)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </div>
 
@@ -47,6 +65,17 @@ I'm a student at **PSG Institute of Technology and Applied Research**, pursuing 
 | **Languages** | C · C++ · Python · Embedded C · Verilog / VHDL |
 | **Tools & Platforms** | MATLAB · Arduino · Raspberry Pi · KiCad / Eagle · Xilinx Vivado · Multisim |
 | **Core Areas** | Digital Signal Processing · VLSI Design · Embedded Systems · Communication Systems · IoT |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 <br/>
 

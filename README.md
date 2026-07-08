@@ -37,8 +37,6 @@ I'm a student at **PSG institute of Technology and applied Research**, currently
 
 **Core Areas:** Digital Signal Processing · VLSI Design · Microcontrollers & Embedded Systems · Communication Systems · IoT
 
-**Currently Exploring:** FPGA Development · RF/Wireless Communication
-
 ---
 
 

@@ -16,8 +16,8 @@
 <a href="mailto:thakksin2006@gmail.com">
   <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="[https://your-portfolio-site.com](https://thakksin.github.io/Portfolio/)">
-  <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://thakksin.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>

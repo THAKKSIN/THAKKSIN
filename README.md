@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=THAKKSIN%20A%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Electronics%20%26%20Communication%20Engineering&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header" width="100%"/>
+
+<h1>Hi, I'm THAKKSIN A S 👋</h1>
+<h3>Electronics & Communication Engineering Student</h3>
 
 <a href="https://www.linkedin.com/in/your-linkedin/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
